@@ -1,0 +1,26 @@
+{
+	"pelis" : [
+		{
+			"titulo" : "Los Simpson",
+			"descripcion" : "Familia que viven aventuras",
+			"genero" :"Dibujos animados",
+			"valoracion" : "7",
+			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es",
+			"capitulos" : "1452"
+		},
+		{
+			"titulo" : "El Señor de los anillos",
+			"descripcion" : "Aventuras fantásticas en un mundo de aventuras",
+			"genero" :"Fantasía",
+			"valoracion" : "9",
+			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es"
+		},
+		{
+			"titulo" : "Harry Potter",
+			"descripcion" : "Chico especial viaja a una escuela de magia",
+			"genero" :"Magia",
+			"valoracion" : "8",
+			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es"
+		},
+	]
+}
