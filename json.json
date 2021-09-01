@@ -5,7 +5,7 @@
 			"descripcion" : "Familia que viven aventuras",
 			"genero" :"Dibujos animados",
 			"valoracion" : "7",
-			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es",
+			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/f/f8/Familia_Simpson.png/revision/latest/scale-to-width-down/411?cb=20090414030121&path-prefix=es",
 			"capitulos" : "1452"
 		},
 		{
@@ -13,14 +13,14 @@
 			"descripcion" : "Aventuras fantásticas en un mundo de aventuras",
 			"genero" :"Fantasía",
 			"valoracion" : "9",
-			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es"
+			"imagen" : "https://pics.filmaffinity.com/El_se_or_de_los_anillos_La_comunidad_del_anillo-744631610-large.jpg"
 		},
 		{
 			"titulo" : "Harry Potter",
 			"descripcion" : "Chico especial viaja a una escuela de magia",
 			"genero" :"Magia",
 			"valoracion" : "8",
-			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100522180809&path-prefix=es"
+			"imagen" : "https://img.fruugo.com/product/5/22/99801225_max.jpg"
 		},
 	]
 }
