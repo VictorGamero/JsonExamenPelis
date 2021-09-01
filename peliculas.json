@@ -3,24 +3,26 @@
 		{
 			"titulo" : "Los Simpson",
 			"descripcion" : "Familia que viven aventuras",
-			"genero" :"Dibujos animados",
-			"valoracion" : "7",
+			"genero" :"Genero: Dibujos animados",
+			"valoracion" : "Valoracion: 7",
 			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/f/f8/Familia_Simpson.png/revision/latest/scale-to-width-down/411?cb=20090414030121&path-prefix=es",
-			"capitulos" : "1452"
+			"capitulos" : "Capitulos: 1452"
 		},
 		{
 			"titulo" : "El Señor de los anillos",
 			"descripcion" : "Aventuras fantásticas en un mundo de aventuras",
-			"genero" :"Fantasía",
-			"valoracion" : "9",
-			"imagen" : "https://pics.filmaffinity.com/El_se_or_de_los_anillos_La_comunidad_del_anillo-744631610-large.jpg"
+			"genero" :"Genero: Fantasía",
+			"valoracion" : "Valoracion: 9",
+			"imagen" : "https://pics.filmaffinity.com/El_se_or_de_los_anillos_La_comunidad_del_anillo-744631610-large.jpg",
+			"capitulos" : "Peliculas: 3"
 		},
 		{
 			"titulo" : "Harry Potter",
 			"descripcion" : "Chico especial viaja a una escuela de magia",
-			"genero" :"Magia",
-			"valoracion" : "8",
-			"imagen" : "https://img.fruugo.com/product/5/22/99801225_max.jpg"
+			"genero" :"Genero: Magia",
+			"valoracion" : "Valoracion: 8",
+			"imagen" : "https://img.fruugo.com/product/5/22/99801225_max.jpg",
+			"capitulos" : "Peliculas: 8"
 		}
 	]
 }
